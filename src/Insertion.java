@@ -5,7 +5,7 @@ public class Insertion {
         Scanner sc=new Scanner(System.in);
         String url = "jdbc:mysql://localhost:3306/testdb";
         String user = "root";
-        String password = "Sanyam@047972";
+        String password = "";
         int id;
         String username;
         String s="insert into student values(? , ?)";
